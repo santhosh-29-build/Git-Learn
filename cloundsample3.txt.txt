@@ -1,3 +1,0 @@
-This is a new file to practice the features of a new branch
-
-Lets try merge conflict
